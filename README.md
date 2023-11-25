@@ -8,7 +8,6 @@ Site para marcenaria
 
 ### Design:
 Figma
-
 ![Reference Image](/wireframe/projeto-marcenaria.png)
 
 ### Tipografia:
