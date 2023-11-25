@@ -25,7 +25,7 @@ Roboto
 css / images
 
 # Etapas de Desenvolvimento
-- [X] Etapa1: Design - 100% => 25/11/2023
+- [X] Etapa1: Design (25/11/2023)
 - [ ] Etapa2: HTML e CSS - 0%
 - [ ] Etapa3: FTP (https://l2bsolucoes.com.br/landingpage-marcenaria) - 0%
 
