@@ -1,19 +1,19 @@
-# landingpage-marcenaria
+# Landing Page Marcenaria
 Projeto de desenvolvimento de landing page de uma marcenaria
 
-Projeto:
+Projeto: <br>
 Site para marcenaria
 
-Design:
+Design:<br>
 Figma
 
-Tipografia:
+Tipografia:<br>
 Roboto
 
-Cores:
-#FFFFFF
-#F99410
+Cores:<br>
+#FFFFFF<br>
+#F99410<br>
 #000000 65%
 
-Assets:
+Assets:<br>
 Todas as imagens necessárias para o desenvolvimento, encontra-se na pasta images.
