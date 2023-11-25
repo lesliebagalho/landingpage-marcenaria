@@ -1,6 +1,8 @@
 # Landing Page Marcenaria
 Projeto de desenvolvimento de landing page de uma marcenaria
 
+Neste projeto, inicia-se por um redesign de um site já existente e criação de um novo layou.
+
 Projeto: <br>
 Site para marcenaria
 
