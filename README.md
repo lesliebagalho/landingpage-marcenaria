@@ -27,7 +27,7 @@ css / images
 # Etapas de Desenvolvimento
 - [X] Etapa1: Design (25/11/2023)
 - [ ] Etapa2: HTML e CSS - 0%
-- [ ] Etapa3: FTP (https://l2bsolucoes.com.br/landingpage-marcenaria) - 0%
+- [ ] Etapa3: FTP - 0%
 
 # Linkedin
 https://www.linkedin.com/feed/update/urn:li:activity:7134212987300589568/
